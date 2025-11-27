@@ -11,4 +11,7 @@ Each time a short link is clicked the click count automatically increases by +1,
 Additionally, all links are displayed in the analytics table in real time allowing the user to easily copy them or open them in a new tab, new window, or incognito window.
 
 
+![Url Shortener Screenshot](screenshots/Main-Url-Shortener.png)
+
+
 <br><br>
