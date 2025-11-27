@@ -128,3 +128,30 @@ This operation is performed using our delete_urls.py file. By adding the desired
 
 
 <br><br>
+
+
+
+
+
+
+# REMOVE WITH CMD COMMAND
+
+
+
+And afterward to execute the removal process you need to run specific commands in the Windows CMD so that the system can detect the unwanted websites in the admin panel.
+
+
+First to access our project I type: cd Desktop/Url-Shortener 
+
+and then to perform the deletion I run: python delete_urls.py
+
+
+
+Which makes the system detect and remove the unwanted websites listed.
+
+
+
+![Url Shortener Screenshot](screenshots/Cmd-Admin.png)
+
+
+<br><br>
