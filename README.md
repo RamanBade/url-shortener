@@ -33,7 +33,7 @@ Whenever a new URL is added to the system, this information is saved in database
 <br><br>
 
 
-2. Stores Click Details
+<p>2. Stores Click Details</p>
 
 Thanks to the ClickDetail table, every click is logged individually:
 
@@ -51,7 +51,7 @@ This allows the admin panel to display both total clicks and detailed logs.
 <br><br>
 
 
-3. Loads All Analytics in the Admin Panel
+<p>3. Loads All Analytics in the Admin Panel</p>
 
 The GET /api/analytics request via JQuery fetches the data directly from database.db.
 
@@ -69,7 +69,7 @@ So, the functioning of the admin panel entirely depends on this database file.
 <br><br>
 
 
-4. delete_urls.py Script Deletes from This File
+<p>4. delete_urls.py Script Deletes from This File</p>
 
 When delete_urls.py is executed:
 
