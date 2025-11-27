@@ -73,12 +73,35 @@ This makes long and complex links much shorter, shareable, and easier to track t
 
 
 
+
 # SHORT-URL WORK FLOW 
 
 
 After clicking the 6‑character code in the Short-URL section the user is redirected to the main or sub page of Instagram (or any other website) based on the generated 6‑character code.
 
 ![Url Shortener Screenshot](screenshots/Short-Url.png)
+
+
+<br><br>
+
+
+
+
+
+
+
+# TOTAL CLICKS WORK FLOW
+
+
+
+After clicking the system through the combined operation of the jQuery frontend and backend functions increments the click count by +1. This updated value is immediately reflected in the total clicks. 
+
+If desired the short link can also be opened in a new tab, new window, or incognito window and the functions will work in all cases gives the +1 values.
+
+
+
+![Url Shortener Screenshot](screenshots/Total-Clicks.png)
+
 
 
 <br><br>
