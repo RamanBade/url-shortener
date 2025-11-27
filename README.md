@@ -13,5 +13,6 @@ Additionally, all links are displayed in the analytics table in real time allowi
 
 ![Url Shortener Screenshot](screenshots/Main-Url-Shortener.png)
 
+![Url Shortener Screenshot](screenshots/2-Main-Url-Shortener.png)
 
 <br><br>
