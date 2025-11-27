@@ -105,3 +105,26 @@ If desired the short link can also be opened in a new tab, new window, or incogn
 
 
 <br><br>
+
+
+
+
+
+
+
+# REMOVE ORIGINAL URL WORKFLOW
+
+
+
+In the admin panel you can optionally select and remove any shortened website from the original URL list whether by its long URL or its six-character short code.
+
+This operation is performed using our delete_urls.py file. By adding the desired websites to the urls_to_delete list the selected URLs will be removed from the panel.
+
+
+
+
+Remove-Panel.png  ![Url Shortener Screenshot](screenshots/Remove-Panel.png)
+
+
+
+<br><br>
