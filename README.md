@@ -101,7 +101,7 @@ Every time the project runs, the backend connects to this file to read and updat
 
 
 
-# URL SHORTENER
+## URL SHORTENER
 
 The purpose of my URL Shortener project is to allow users to easily convert long and complex web links for example, 15 or 20 characters long with numbers, and even longer into short, shareable, and copyable links.
 
@@ -126,7 +126,7 @@ Additionally, all links are displayed in the analytics table in real time allowi
 
 
 
-# COPY & REDIRECT LOGIC
+## COPY & REDIRECT LOGIC
 
 
 
@@ -177,7 +177,7 @@ This makes long and complex links much shorter, shareable, and easier to track t
 
 
 
-# SHORT URL WORK FLOW 
+## SHORT URL WORK FLOW 
 
 
 After clicking the 6‑character code in the Short-URL section the user is redirected to the main or sub page of Instagram (or any other website) based on the generated 6‑character code.
@@ -193,7 +193,7 @@ After clicking the 6‑character code in the Short-URL section the user is redir
 
 
 
-# TOTAL CLICKS WORK FLOW
+## TOTAL CLICKS WORK FLOW
 
 
 
@@ -215,7 +215,7 @@ If desired the short link can also be opened in a new tab, new window, or incogn
 
 
 
-# REMOVE ORIGINAL URL WORKFLOW
+## REMOVE ORIGINAL URL WORKFLOW
 
 
 
@@ -237,7 +237,7 @@ This operation is performed using our delete_urls.py file. By adding the desired
 
 
 
-# REMOVE WITH CMD COMMAND
+## REMOVE WITH CMD COMMAND
 
 
 
@@ -266,7 +266,7 @@ Which makes the system detect and remove the unwanted websites listed.
 
 
 
-# RE-BACK DASHBOARD
+## RE-BACK DASHBOARD
 
 
 And as shown by performing the necessary actions in the admin panel we have removed the websites https://www.flashscore.com.tr/, https://www.hepsiburada.com/ and https://www.trendyol.com/ from our system.
